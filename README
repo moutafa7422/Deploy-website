@@ -1,0 +1,57 @@
+🚀 Deploying Website on EC2: Ansible Playbook, Docker, and Jenkins CI/CD 🚀
+
+Thrilled to share insights into my latest project: deploying a website on an EC2 instance with a streamlined CI/CD pipeline using Ansible, Docker, and Jenkins! 🌐
+
+
+
+Project Highlights:
+
+
+
+1-Docker Commands for Dynamic Image Creation:
+
+- Leveraged Docker commands within the Ansible playbook for dynamic image creation.
+
+- Ensured that a new Docker image is generated in every successful Jenkins job, promoting consistency and traceability.
+
+
+
+2- Dockerizing the Application:
+
+- Crafted Dockerfiles to encapsulate the application's environment and dependencies.
+
+- Employed Docker Compose for managing multi-container applications and simplifying deployment.
+
+
+
+3- Jenkins CI/CD Pipeline:
+
+-Established a robust CI/CD pipeline using Jenkins for end-to-end automation.
+
+- Orchestrated the entire process, from building the Docker image to deploying the application on the EC2 instance.
+
+
+
+Key Benefits:
+
+1- Efficient Infrastructure Management: Ansible streamlined the EC2 instance setup and configuration.
+
+
+
+2- Dynamic Image Creation: Docker commands within Jenkins jobs ensured a new image with each successful build.
+
+
+
+3- Containerization with Docker: Ensured application isolation, scalability, and simplified deployment.
+
+
+
+4- Continuous Integration: Jenkins automated the integration of code changes, enhancing collaboration.
+
+
+
+5- Continuous Deployment: Achieved continuous and reliable application deployment with Jenkins.
+
+
+
+This project exemplifies the power of DevOps practices in streamlining deployment processes. Open for discussions and eager to share insights! Feel free to connect with me if you're interested or have any questions! 🚀 #DevOps #Ansible #Docker #Jenkins #EC2 #ContinuousDeployme
